@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Mar 18 20:47:21 2021
+# Process ID: 14860
+# Current directory: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab3/multiple_seven_segment_displays/multiple_seven_segment_displays.runs/impl_1
+# Command line: vivado.exe -log multipleSevenSegmentDisplays_TOP.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source multipleSevenSegmentDisplays_TOP.tcl -notrace
+# Log file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab3/multiple_seven_segment_displays/multiple_seven_segment_displays.runs/impl_1/multipleSevenSegmentDisplays_TOP.vdi
+# Journal file: E:/class/Master of ANU/6213_Digital Systems and Microprocessors/my_6213/lab3/multiple_seven_segment_displays/multiple_seven_segment_displays.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source multipleSevenSegmentDisplays_TOP.tcl -notrace
